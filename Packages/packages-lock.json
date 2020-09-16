@@ -165,7 +165,7 @@
       "url": "https://registry.npmjs.org"
     },
     "com.varjo.xr": {
-      "version": "file:C:/Users/FITE/Desktop/VarjoUnityXRPlugin-master",
+      "version": "file:D:/Stephen/Documents/VirBELA/JVT/VarjoUnityXRPlugin",
       "depth": 0,
       "source": "local",
       "dependencies": {
