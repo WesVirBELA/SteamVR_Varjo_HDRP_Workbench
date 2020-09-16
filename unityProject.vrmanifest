@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.steamvrxrtest.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\Stephen\\Documents\\VirBELA\\JVT\\SteamVR_Varjo_HDRP_Workbench\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\FITE\\Documents\\SteamVR_Varjo_HDRP_Workbench\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Steam VR + XR Test [Testing]"
