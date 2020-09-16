@@ -4,6 +4,9 @@ using UnityEngine;
 using Valve.VR;
 public class ViveInput : MonoBehaviour
 {
+
+    [SerializeField] private Renderer testRenderer = null;
+
     public SteamVR_Action_Single squeezeAction = SteamVR_Input.GetAction<SteamVR_Action_Single>("Squeeze", true);
     // Update is called once per frame
     void Update()
@@ -20,6 +23,7 @@ public class ViveInput : MonoBehaviour
         if(triggerValue > 0.0f)
         {
             Debug.Log(triggerValue);
+            testRenderer.gameObject.transform.localScale = Vector3.one * Random.Range(0.2f, 1f);
         }
     }
 }
