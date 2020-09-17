@@ -165,13 +165,12 @@
       "url": "https://registry.npmjs.org"
     },
     "com.varjo.xr": {
-      "version": "https://github.com/varjocom/VarjoUnityXRPlugin.git",
+      "version": "file:C:/Users/FITE/Desktop/VarjoUnityXRPlugin-master",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "com.unity.xr.management": "3.2.10"
-      },
-      "hash": "bd2fca8db7437f4df5a4d578eb4cf934d6049773"
+      }
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
